@@ -3,6 +3,7 @@
 2. DDPG
 3. MPC
 4. SAC-MPC
+5. Curriculum-SAC
 
     
 # Environments:
