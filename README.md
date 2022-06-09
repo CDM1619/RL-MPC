@@ -21,7 +21,8 @@ https://user-images.githubusercontent.com/100258046/172807377-12acb043-bf53-4121
 
 # Results of UAVs in video form
 The following figure and videos show that our model can allow the vehicle to avoid different types of obstacles, and the UAVs can complete multi-task learning at the same time: formation and dynamic obstacle avoidance.
+## Static obstacle avoidance
 https://user-images.githubusercontent.com/100258046/172811010-7beaae4c-c6bd-4c88-9e08-9cb7b2f1ae4d.mp4
 
-
+## Dynamic obstacle avoidance
 https://user-images.githubusercontent.com/100258046/172811028-f9a0b2e9-349c-4952-acc5-d87536b8e686.mp4
